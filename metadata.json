@@ -1,0 +1,16 @@
+{
+  "name": "Liangelo Ball AI",
+  "description": "Eine kurze Beschreibung meines NFTs",
+  "image": "https://example.com/my-nft-image.jpg",
+  "attributes": [
+    {
+      "trait_type": "Farbe",
+      "value": "Blau"
+    },
+    {
+      "trait_type": "Größe",
+      "value": "Mittel"
+    }
+    // Weitere Attribute nach Bedarf hinzufügen
+  ]
+}
